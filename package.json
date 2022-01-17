@@ -1,0 +1,13 @@
+{
+  "name": "myapp-123354",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emmanuel Orozco <indi3.rok@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
